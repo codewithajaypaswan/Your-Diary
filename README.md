@@ -5,6 +5,7 @@
 ## Features
 
 - Add data into the diary
+- Read data from the diary
 - Delete data from the diary
 - Update data from the diary
 
