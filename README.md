@@ -3,7 +3,7 @@
 
 
 ## Features
-
+- Maintain an online diary record 
 - Add data into the diary
 - Read data from the diary
 - Delete data from the diary
