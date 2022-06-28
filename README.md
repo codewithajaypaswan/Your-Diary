@@ -22,7 +22,7 @@ add environment variables
 head over to mongodb atlas and get free account
 setup the environment variables
 
-[App is running on](https://localhost:3000)
+[App is running on](https://yourowndiary.herokuapp.com/)
 
 
 ## Screenshots
